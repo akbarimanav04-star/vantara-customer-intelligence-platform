@@ -1,0 +1,5 @@
+{
+  "low_risk_example": "Churn probability: 1.72%. Main drivers: num__EngagementScore (decreasing churn risk, value=1.23); num__Recency (decreasing churn risk, value=-1.10); num__Frequency (decreasing churn risk, value=1.58)",
+  "borderline_example": "Churn probability: 55.40%. Main drivers: num__PurchaseGapStd (decreasing churn risk, value=0.53); num__Monetary (increasing churn risk, value=-0.13); num__ReturnRate (increasing churn risk, value=-0.42)",
+  "high_risk_example": "Churn probability: 95.82%. Main drivers: num__Recency (increasing churn risk, value=0.93); num__EngagementScore (increasing churn risk, value=-0.94); num__Monetary (increasing churn risk, value=-0.22)"
+}

@@ -1,0 +1,8 @@
+{
+  "accuracy": 0.7188,
+  "precision": 0.6242,
+  "recall": 0.4189,
+  "roc_auc": 0.7779,
+  "n_sequences": 3289,
+  "n_test": 658
+}

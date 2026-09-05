@@ -1,0 +1,15 @@
+{
+  "results": {
+    "RandomForestRegressor": {
+      "MAE": 1101.55,
+      "RMSE": 5292.79,
+      "R2": 0.8367
+    },
+    "XGBoostRegressor": {
+      "MAE": 967.64,
+      "RMSE": 3907.13,
+      "R2": 0.911
+    }
+  },
+  "best_model": "XGBoostRegressor"
+}
